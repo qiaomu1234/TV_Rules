@@ -13,11 +13,11 @@ rules:
   - DOMAIN,beesport.livednow.com,DIRECT
 
   # 海外
-  - DOMAIN-SUFFIX,livednow.com,Proxy
-  - DOMAIN-SUFFIX,orz-7.com,Proxy
-  - DOMAIN-SUFFIX,4gtv.tv,Proxy
-  - DOMAIN-SUFFIX,hinet.net,Proxy
-  - DOMAIN-SUFFIX,ofiii.com,Proxy
-  - DOMAIN-SUFFIX,googlevideo.com,Proxy
-  - DOMAIN-SUFFIX,youtube.com,Proxy
-  - DOMAIN-SUFFIX,mytvsuper.com,Proxy
+  - DOMAIN-SUFFIX,livednow.com,PIXMAN
+  - DOMAIN-SUFFIX,orz-7.com,PIXMAN
+  - DOMAIN-SUFFIX,4gtv.tv,PIXMAN
+  - DOMAIN-SUFFIX,hinet.net,PIXMAN
+  - DOMAIN-SUFFIX,ofiii.com,PIXMAN
+  - DOMAIN-SUFFIX,googlevideo.com,PIXMAN
+  - DOMAIN-SUFFIX,youtube.com,PIXMAN
+  - DOMAIN-SUFFIX,mytvsuper.com,PIXMAN
